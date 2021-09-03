@@ -1,0 +1,9 @@
+	**Account Details**
+ID: 2020-05-00001
+Name: asdjkhab
+Date-of-Birth: 06-02-5666
+Nominee: gdh
+Account Type: Debit
+Balance: 500.0
+Last Deposit: 500.0
+Last Withdraw: 0.0

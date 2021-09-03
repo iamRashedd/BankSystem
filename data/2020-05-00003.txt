@@ -1,0 +1,9 @@
+	**Account Details**
+ID: 2020-05-00003
+Name: Rashed
+Date-of-Birth: 05-02-1990
+Nominee: Anisur
+Account Type: Credit
+Balance: 999.0
+Last Deposit: 999.0
+Last Withdraw: 0.0

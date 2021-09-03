@@ -1,0 +1,9 @@
+	**Account Details**
+ID: 2020-05-00002
+Name: sdwqaf
+Date-of-Birth: 02-02-9020
+Nominee: ewrf
+Account Type: Debit
+Balance: 100.0
+Last Deposit: 100.0
+Last Withdraw: 0.0
